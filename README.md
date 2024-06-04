@@ -1,6 +1,7 @@
 # 👨🏻‍💻 내가 쓰려고 만든 다크모드 <br/>
 ## The dark mode I made to use
 > #### Next.JS 14
+> #### TypeScript
 > #### MUI 5
 > #### React 18
 
